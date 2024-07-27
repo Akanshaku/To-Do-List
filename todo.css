@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(69, 2, 43);
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 5px;
+}
+input {
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(56, 1, 13);
+    outline: none;
+    font-size: 19px;
+}
+button {
+    width: 60px;
+    height: 41px;
+    background-color: rgb(79, 3, 35);
+    color: white;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+}
+.text ul {
+    display: flex;
+    align-items: center;
+    background-color: rgb(77, 4, 48);
+    color: white;
+    font-size: 19px;
+    padding: 7px;
+    margin: 5px 0;
+    list-style-type: none;
+}
+.text ul span {
+    flex-grow: 1;
+}
+.text ul input[type="checkbox"] {
+    margin-left: 
+}
+.text ul i {
+    cursor: pointer;
+}
+.text ul .edit-btn {
+    margin-left: 10px;
+}
+.text ul .fa-trash {
+    margin-left: 0; 
+}
+.text ul.completed {
+    text-decoration: line-through;
+    background-color: rgb(128, 128, 128);
+}
+
+
+
+
+
